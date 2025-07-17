@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [solution](https://github.com/Davindicator001/qr-code)
-- Live Site URL: [Site](https://github.io/Davindicator001/qr-code)
+- Live Site URL: [Site](https://davindicator001.github.io/qr-code/)
 
 ## My process
 
